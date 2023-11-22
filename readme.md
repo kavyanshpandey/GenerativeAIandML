@@ -28,3 +28,5 @@ Example -
 - Google search
 - Recommendation System
 - Text summarizartion, Translation
+
+![Vector Embedding](./images/Screenshot 2023-11-22 at 11.17.09 AM.png)
