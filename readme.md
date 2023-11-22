@@ -29,4 +29,12 @@ Example -
 - Recommendation System
 - Text summarizartion, Translation
 
-![Vector Embedding](./images/Screenshot 2023-11-22 at 11.17.09 AM.png)
+### Here is how words are grouped with unique values
+![Vectro database and word mapping](https://github.com/kavyanshpandey/GenerativeAIandML/blob/master/images/vectorDB.png)
+
+Screenshot from deeplearning vector embedding visualizer
+
+![Vector Embedding](https://github.com/kavyanshpandey/GenerativeAIandML/blob/master/images/vectorEmbedding.png)
+
+
+
