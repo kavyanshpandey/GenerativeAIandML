@@ -28,6 +28,7 @@ Example -
 - Google search
 - Recommendation System
 - Text summarizartion, Translation
+- ChatGPT
 
 ### Here is how words are grouped with unique values
 ![Vectro database and word mapping](https://github.com/kavyanshpandey/GenerativeAIandML/blob/master/images/vectorDB.png)
